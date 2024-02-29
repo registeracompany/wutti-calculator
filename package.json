@@ -1,0 +1,26 @@
+{
+  "name": "wutti-calculator",
+  "version": "1.0.1",
+  "description": "Welcome to the Weather Library! This library provides a simple way to fetch weather data for a specific day using the WeatherAPI.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/registeracompany/wutti-calculator.git"
+  },
+  "keywords": [
+    "wutti-calculator"
+  ],
+  "author": "registeracompany",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/registeracompany/wutti-calculator/issues"
+  },
+  "homepage": "https://github.com/registeracompany/wutti-calculator#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5"
+  }
+}
